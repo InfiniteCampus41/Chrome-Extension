@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Infinite Campus",
   "version": "1.2",
-  "description": "A Chrome Extension That Allows Running Custom CSS And Custom JS On Any Site",
+  "description": "A Chrome Extension That Allows Running Custom CSS And Custom JS On Any Site Made By Hacker41",
   "permissions": ["activeTab", "storage", "scripting", "contextMenus"],
   "host_permissions": ["<all_urls>"],
   "action": {
@@ -22,4 +22,5 @@
       "run_at": "document_idle"
     }
   ]
+
 }
